@@ -1,0 +1,8 @@
+Tools using by project
+
+Libs
+PyAudio
+GoogleSpeech
+
+Databases
+MongoDB
