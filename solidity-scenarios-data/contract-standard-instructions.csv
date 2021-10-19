@@ -1,0 +1,5 @@
+BlockName; BlockScript;
+Expose contract address to be visible outside; address public minter** function {ContractAddress}() public { minter = msg.sender; }**function minter() returns (address) { return minter; }
+Adding contract balances; mapping (address => uint) public balances;
+Set Solidity language version; pragma solidity {MinorVersion}{MajorVersion};
+Add copyright header; // SPDX-License-Identifier: MIT;

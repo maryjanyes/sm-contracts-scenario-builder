@@ -1,0 +1,5 @@
+BlockName;BlockScript;BlockPriority (higest = 5);NotifySendEventIfMethod
+Transfter {amount} {coin_mark} from my account;public transfer(address receiver, uint amount) { balances[msg.sender] -= amount balances[receiver] += amount };5
+Request {amount} {coin_mark} to my account;public request_coins(address receiver, uint amount) { // TODO: Sending event };5
+Notify crypto clients about Sending event;event Sent(address from, address to, uint amount);2
+Start coins auction;public bid() public payable() { //TODO: Continue auction }

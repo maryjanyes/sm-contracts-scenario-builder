@@ -1,0 +1,3 @@
+Keywords; Scenario_script;
+["sending", "moneys", "person", "business", "sufficient", "balance"]; public transfer(address receiver, uint amount) { balances[msg.sender] -= amount balances[receiver] += amount }
+["request", "moneys", "person", "business"]; public request_payment(address receiver, uint amount) { }
