@@ -16,6 +16,6 @@ Simple words - we allow to build a Smart contracts any person who do not familia
 <p>The project image logo</p>
 <img src="./assets/smcb_logo.png">
 <p>Builder workflow</p>
-<img src="./assets/ScenariosFlow.png">
+<img src="./assets/ScenariosFlow.png" style="background-color: white">
 </body>
 </html>

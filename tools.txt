@@ -2,7 +2,8 @@ Tools using by project
 
 Libs
 PyAudio
-GoogleSpeech
+PyQt5
 
 Databases
+-- future connect planning --
 MongoDB
