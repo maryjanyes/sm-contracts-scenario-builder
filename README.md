@@ -11,6 +11,10 @@ Simple words - we allow to build a Smart contracts any person who do not familia
 - builder (datascience model)
 - config (the environment configs)
 
+### Run the project for development
+- install all required dependencies by `running python3 -m pip install -r requirements.txt`
+- run desktop app with `python3 app.py`
+
 <html>
 <body>
 <p>The project image logo</p>

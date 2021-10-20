@@ -3,7 +3,6 @@
 
 import sounddevice as sd
 from scipy.io.wavfile import write
-import time
 
 subtype = 'PCM_16'
 dtype = 'int16'

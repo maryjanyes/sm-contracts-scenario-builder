@@ -4,7 +4,7 @@
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QGridLayout, QLabel
 from PyQt5.QtCore import Qt
 
-from src.speech_recognizer import SmartContractsBuilder_SpeechRecognizer
+# from src.speech_recognizer import SmartContractsBuilder_SpeechRecognizer
 from src.speech_recorder import SmartContractsBuilder_SpeechRecorder
 from src.constants import app_scenarios_dir
 from src.ui_app_styles import *
