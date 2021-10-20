@@ -1,3 +1,4 @@
 */node_modules
 *.lock
 contracts-deployer
+.DS_store
